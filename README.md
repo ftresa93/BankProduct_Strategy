@@ -39,15 +39,19 @@ The "dim_customers.csv" and "fact_spends.csv" datasets were imported into Python
 
 #### Data Cleaning and Preparation: 
 
-- Removing Duplicates
+- Checking for Duplicates
 - Confirming no null values in the dataset
 - Standardizing Data types
+- Joining or merging datasets 
 
 #### Exploratory Data Analysis: 
 
-- Propose and describe customer segmentation based on customer behaviors.
-- Visualize data to provide insights for improving customer engagement, which is key to growing and solidifying UFood’s position as the market leader.
- 
+- The Key Metric in this case is Average income utilization % of customers = (avg_spends/avg_income).
+- To classify the customers based on available demography such as age group, gender, occupation, etc., and provide insights based on them.
+- Providing Spending insights to the Product Strategy Team in the Banking Domain.
+- Propose and describe Key Customer Segmentation based on customer behaviors.
+- Provide Credit Card Feature recommendations to improve the likelihood of credit card usage.
+  
 ### Findings:
 
 
