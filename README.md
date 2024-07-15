@@ -6,7 +6,7 @@
 - [Data Sources](#data-sources)
 - [Tools Used](#tools-used)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Data Visualizations](#data-visualizations)
+- [Data Visualization](#data-visualization)
 - [Findings](#findings)
 - [Recommendations](#recommendations)
 - [References](#references)
