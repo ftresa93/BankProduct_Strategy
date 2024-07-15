@@ -6,6 +6,7 @@
 - [Data Sources](#data-sources)
 - [Tools Used](#tools-used)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Visualizations](#data-visualizations)
 - [Findings](#findings)
 - [Recommendations](#recommendations)
 - [References](#references)
@@ -53,7 +54,7 @@ The "dim_customers.csv" and "fact_spends.csv" datasets were imported into Python
 - Propose and describe Key Customer Segmentation based on customer behaviors.
 - Provide Credit Card Feature recommendations to improve the likelihood of credit card usage.
 
-#### Data Visualization:
+### Data Visualization:
 
 After EDA, the cleaned dataset was exported to Tableau for advanced data visualization, providing a more intuitive understanding of customer segmentations and spending insights. The visualization can be accessed through the [Tableau Dashboard](https://public.tableau.com/views/CreditCardSalesInsight/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
   
