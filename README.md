@@ -59,4 +59,4 @@ The "dim_customers.csv" and "fact_spends.csv" datasets were imported into Python
   
 ### References:
 
-1.  [Code Basics] (https://codebasics.io/challenge/codebasics-resume-project-challenge)
+1.  [Code Basics](https://codebasics.io/challenge/codebasics-resume-project-challenge)
