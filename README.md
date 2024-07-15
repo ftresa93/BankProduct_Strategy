@@ -7,6 +7,7 @@
 - [Tools Used](#tools-used)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Findings](#findings)
+- [Recommendations](#recommendations)
 - [References](#references)
 
 ### Project Objective: 
