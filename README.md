@@ -96,12 +96,34 @@ Males have higher average monthly spending compared to females. Interestingly, d
 ![9](https://github.com/user-attachments/assets/01bb7065-fb78-4de8-a0eb-4ac7aeb5d151)
 
 #### 5. Marital Status-
-Married customers exhibit higher spending variability compared to single customers. The scatterplot for average income versus average spending is similar for both married and single customers. Additionally, the average income utilization percentage is the same for both groups.
+Married customers exhibit higher spending variability compared to single customers. The scatterplot for average income versus average spending is similar for both married and single customers, and the average income utilization percentage is the same for both groups. The dataset includes nearly 3,100 married individuals and 860 single individuals; a more balanced dataset might provide deeper insights.
 
 ![10](https://github.com/user-attachments/assets/6ddc1832-0f9d-4240-b124-839ab0225e63)
 
 
 ![11](https://github.com/user-attachments/assets/761a5e1b-4790-4bf4-9945-4af4c65963b1)
+
+#### 6. Preferred Payment type-
+Generally, Credit cards are the most preferred payment method for spending, followed by UPI. Among age groups, those aged 45+ and 35-45 prefer credit cards first and debit cards second. The 25-34 age group also prefers credit cards, followed by UPI. In contrast, the 21-24 age group prefers UPI first and credit cards second. The highest average spending with credit cards is observed in the 25-34 and 35-45 age groups. 
+
+![12](https://github.com/user-attachments/assets/d3d081f6-c22f-4716-b1a3-170e8aab8873)
+
+
+![13](https://github.com/user-attachments/assets/4908219d-0aa7-4148-9a5e-cdc0e79572f3)
+
+#### 7. Category-
+Generally, Credit cards are the most preferred payment method for spending, followed by UPI. Among age groups, those aged 45+ and 35-45 prefer credit cards first and debit cards second. The 25-34 age group also prefers credit cards, followed by UPI. In contrast, the 21-24 age group prefers UPI first and credit cards second. The highest average spending with credit cards is observed in the 25-34 and 35-45 age groups.
+
+
+![15](https://github.com/user-attachments/assets/d8365f01-8e8d-4fbc-bcba-adc3b1d6f845)
+
+![16](https://github.com/user-attachments/assets/d6a5f663-6ddf-482f-bf71-31bf1d6280b4)
+
+![18](https://github.com/user-attachments/assets/063015bd-f756-48fb-9513-1482658fabcc)
+
+![19](https://github.com/user-attachments/assets/2a165b15-0c36-4d98-821c-6e10a8a111e5)
+
+![20](https://github.com/user-attachments/assets/f8060b01-fd54-47cd-99f4-92b9ca3964ff)
 
 ### Recommendations:
   
