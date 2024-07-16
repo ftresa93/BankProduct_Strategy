@@ -79,13 +79,21 @@ The analysis reveals that Mumbai and Delhi NCR have the highest spending variabi
 ![5](https://github.com/user-attachments/assets/1e593d58-005a-4b14-a58c-23dc63471818)
 
 #### 3. Occupation-
-Salaried IT Employees have the highest spending variability, with many spending significantly more than other groups. Business Owners show high spending levels similar to IT employees but with less variability. Salaried Other Employees have moderate spending patterns, and Government Employees and Freelancers exhibit more conservative spending behaviors, with lower overall spending compared to IT and Business Owners.
-
+Salaried IT Employees exhibit the highest spending variability, with many spending significantly more than other groups. Business Owners also show high spending levels similar to IT employees but with less variability. 
+Salaried IT Employees have the highest income utilization percentage at 51%, along with the most high-income and high-spending cluster. Freelancers have the lowest income and spending values but the second-highest average income utilization percentage. Business Owners, despite having the highest average income cluster, display relatively low spending, resulting in one of the lowest average income utilization percentages at 33%.
 
 ![6](https://github.com/user-attachments/assets/6a2398cb-b882-4c4a-9015-a294a47b8c55)
 
 
 ![7](https://github.com/user-attachments/assets/d3e879fa-b1f8-4a77-abbb-574a5cf31d78)
+
+#### 4. Gender-
+Males have higher average monthly spending compared to females. Interestingly, despite the average income range for females being as broad as that for males, their spending is lower. Additionally, the average income utilization percentage for men is 5% higher than that for women.
+
+![8](https://github.com/user-attachments/assets/a5eec068-7d68-4532-840f-81fac2f138a9)
+
+
+![9](https://github.com/user-attachments/assets/01bb7065-fb78-4de8-a0eb-4ac7aeb5d151)
 
 ### Recommendations:
   
