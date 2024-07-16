@@ -95,6 +95,14 @@ Males have higher average monthly spending compared to females. Interestingly, d
 
 ![9](https://github.com/user-attachments/assets/01bb7065-fb78-4de8-a0eb-4ac7aeb5d151)
 
+#### 5. Marital Status-
+Married customers exhibit higher spending variability compared to single customers. The scatterplot for average income versus average spending is similar for both married and single customers. Additionally, the average income utilization percentage is the same for both groups.
+
+![10](https://github.com/user-attachments/assets/6ddc1832-0f9d-4240-b124-839ab0225e63)
+
+
+![11](https://github.com/user-attachments/assets/761a5e1b-4790-4bf4-9945-4af4c65963b1)
+
 ### Recommendations:
   
 ### References:
