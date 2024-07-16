@@ -71,7 +71,7 @@ The age group 35-45 has the highest average income utilization, followed closely
 ![3](https://github.com/user-attachments/assets/9deaa329-f037-437c-a96f-b3ae31abd797)
 
 #### 2. City-
-The analysis reveals that Mumbai and Delhi NCR have the highest spending variability, with Mumbai showing the highest overall spending. Chennai exhibits the lowest median spending, indicating more conservative financial behavior. A positive correlation between income and spending is evident across all cities, with Mumbai, Delhi, and Bengaluru displaying notable clusters of high-income, high-spending individuals. Hyderabad's spending patterns are moderate, with less extreme spending behavior compared to other cities.
+The analysis reveals that Mumbai and Delhi NCR have the highest spending variability, with Mumbai showing the highest overall spending. A positive correlation between income and spending is evident across all cities, with Mumbai, Delhi, and Bengaluru displaying notable clusters of high-income, high-spending individuals. Hyderabad's spending patterns are moderate, with less extreme spending behavior compared to other cities. Chennai exhibits the lowest median spending, indicating more conservative financial behavior.
 
 ![4](https://github.com/user-attachments/assets/b728339f-6e79-48b6-b0aa-5b04cc2d8d8a)
 
