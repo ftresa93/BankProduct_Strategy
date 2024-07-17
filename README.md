@@ -48,7 +48,7 @@ The "dim_customers.csv" and "fact_spends.csv" datasets were imported into Python
 - Standardizing Data types
 - Joining or merging datasets 
 
-#### Exploratory Data Analysis
+#### Exploratory Data Analysis:
 
 - The Key Metric in this case is Average income utilization % of customers = (avg_spends/avg_income).
 - To classify the customers based on available demography such as age group, gender, occupation, etc., and provide insights based on them.
