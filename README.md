@@ -96,7 +96,7 @@ Males have higher average monthly spending compared to females. Interestingly, d
 ![9](https://github.com/user-attachments/assets/01bb7065-fb78-4de8-a0eb-4ac7aeb5d151)
 
 #### 5. Marital Status-
-Married customers exhibit higher spending variability compared to single customers. The scatterplot for average income versus average spending is similar for both married and single customers, and the average income utilization percentage is the same for both groups. The dataset includes nearly 3,100 married individuals and 860 single individuals; a more balanced dataset might provide deeper insights.
+Married customers exhibit higher spending variability compared to single customers. The scatterplot for average income versus average spending is similar for both married and single customers, and the average income utilization percentage is the same for both groups. The dataset includes nearly 3,100 married individuals and 860 single individuals; a more balanced dataset might provide deeper insights, especially for the higher avg—income range.
 
 ![10](https://github.com/user-attachments/assets/6ddc1832-0f9d-4240-b124-839ab0225e63)
 
@@ -112,7 +112,13 @@ Generally, Credit cards are the most preferred payment method for spending, foll
 ![13](https://github.com/user-attachments/assets/4908219d-0aa7-4148-9a5e-cdc0e79572f3)
 
 #### 7. Category-
-Generally, Credit cards are the most preferred payment method for spending, followed by UPI. Among age groups, those aged 45+ and 35-45 prefer credit cards first and debit cards second. The 25-34 age group also prefers credit cards, followed by UPI. In contrast, the 21-24 age group prefers UPI first and credit cards second. The highest average spending with credit cards is observed in the 25-34 and 35-45 age groups.
+Overall, customers spend the most on bills, followed by groceries. When examining spending by gender, men prioritize bills, groceries, and electronics. In contrast, women spend the most on health and wellness, followed by bills and travel.
+
+When splitting the data by age group, individuals aged 21-24 spend the most on entertainment. Both the 25-34 and 35-45 age groups spend the most on bills and groceries. However, the next highest spending category for the 35-45 age group is health and wellness, while for the 25-34 age group, it is electronics.
+
+Married individuals allocate most of their spending to bills, groceries, electronics, and health and wellness. Single individuals, on the other hand, prioritize spending on electronics, bills, entertainment, and groceries.
+
+In terms of payment methods, the top five categories of spending—bills, groceries, electronics, health and wellness, and travel—are predominantly paid for using credit cards. The only significant competition between credit cards and UPI (Unified Payments Interface) is observed in the groceries category.
 
 
 ![15](https://github.com/user-attachments/assets/d8365f01-8e8d-4fbc-bcba-adc3b1d6f845)
