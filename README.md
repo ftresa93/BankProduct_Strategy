@@ -151,21 +151,34 @@ The average income utilization percentage of the sample is 42.82%, indicating th
 
 ### Recommendations
 #### 1. Age Group: 
-Tailor credit card features for the 35-45 and 25-34 age groups with rewards on bills, groceries, and electronics. For the 21-24 age group, offer benefits on entertainment and UPI compatibility.
+- Tailor credit card features for the 35-45 and 25-34 age groups with rewards on bills, groceries, and electronics.
+- For the 21-24 age group, offer benefits on entertainment such as discounts on movie tickets, streaming services, and event tickets. Ensure seamless integration with UPI for easy transactions, catering to the preference for UPI among younger customers.
 
 #### 2. City:
-Launch targeted marketing campaigns in Mumbai, Delhi NCR, and Bengaluru to attract high-income, high-spending customers. For Hyderabad and Chennai, offer conservative financial products with moderate rewards.
+- Launch targeted marketing campaigns in Mumbai, Delhi NCR, and Bengaluru to attract high-income, high-spending customers like lifestyle benefits such as access to airport lounges, discounts at premium restaurants, and exclusive event invitations.
+- For Hyderabad and Chennai, offer conservative financial products with moderate rewards. Such as low annual fees, and practical benefits like fuel surcharge waivers and cashback on utility payments.
 
 #### 3. Occupation:
-Develop premium credit cards for salaried IT employees and business owners, offering high rewards on technology and business-related expenses. For freelancers, offer flexible credit options with moderate rewards.
+- Develop premium credit cards for salaried IT employees and business owners, offering high rewards on technology and business-related expenses. Also, Include travel insurance, complimentary lounge access, and higher reward points on flight and hotel bookings.
+- For freelancers, offer flexible credit options with moderate rewards. Include benefits like no annual fees and lower interest rates. Provide discounts on services like co-working spaces, professional courses, and accounting software.
 
 #### 4. Gender:
-Develop customized reward programs for different spending categories to cater to both genders. Offer higher rewards on bills and groceries and specific benefits for electronics (men) and health and wellness (women).
+- Develop customized reward programs for different spending categories to cater to both genders. Offer higher rewards on electronics purchases and bill payments, as these are the top spending categories for men. Include features like sports event tickets, gadget insurance, and discounts on fitness equipment.
+- For Women, provide rewards and discounts on health and wellness products and services, such as gym memberships, health check-ups, and organic food. Offer cashback and reward points for purchases in fashion, beauty, and lifestyle stores.
 
 #### 5. Marital Status:
-Offer family-oriented credit card benefits for married customers, such as rewards on groceries, health and wellness, and bills. For single customers, emphasize rewards on electronics and entertainment.
+- Offer family-oriented credit card benefits for married customers, such as rewards on groceries, health and wellness, and bills. Include family benefits like add-on cards for family members, higher credit limits, and family health insurance.
+- For single customers, emphasize rewards on electronics and entertainment. Attractive offers for travel, dining, and experiences to cater to the lifestyle preferences of single customers.
 
-  
+#### 6. Credit Card Features:
+- Ensure all credit cards are compatible with UPI for quick and easy transactions.
+- Provide contactless payment options for convenience and safety.
+- Integrate with popular mobile wallets for enhanced user experience and ease of use.
+- Develop a loyalty program where customers can earn points for every transaction, which can be redeemed for a variety of rewards, including cashback, gift vouchers, and travel perks.
+- Enhance card security with features like fraud alerts, zero liability protection, and card lock/unlock capabilities through mobile apps.
+- Offer 24/7 customer support through multiple channels, including phone, chat, and email, to assist with any queries or issues.
+
+
 ### References
 
 1.  [Code Basics](https://codebasics.io/challenge/codebasics-resume-project-challenge)
